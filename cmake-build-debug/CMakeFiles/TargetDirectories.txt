@@ -1,0 +1,3 @@
+/Users/mihailkoraev/Documents/DELETE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mihailkoraev/Documents/DELETE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihailkoraev/Documents/DELETE/cmake-build-debug/CMakeFiles/DELETE.dir
